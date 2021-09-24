@@ -1,0 +1,23 @@
+<style>
+      em {
+        color: red;
+        font-style: normal;
+      }
+      .image1 {
+        width: 300px;
+        height: 800px;
+        object-fit: inherit;
+      }
+      .Image2 {
+        width: 100px;
+        border-radius: 50px;
+        height: 100px;
+      }
+
+      .HTML-class {
+        color: khaki;
+      }
+      .username {
+        font-weight: bold;
+      }
+    </style>
