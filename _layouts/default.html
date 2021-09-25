@@ -1,12 +1,29 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>{{ pagetitle }}</title>
+    <!--link to main stylesheet -->
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
 </head>
 <body>
     
+        <nav>
+            <ul>
+                <li><a href="/">Home</a></li>
+                <li><a href="/blog">Blog</a>/li>
+            </ul>
+        </nav>
+        <div class="container">
+
+            {{ content }}
+
+        </div>
+        <footer>
+            <ul>
+                <li><a href="https://github.com/npk2001">github.com/npk2001</a></li>
+                <li><a href="https://npk2001.github.io"> weblabtutorial.github.io></a></li>
+            </ul>    
+        </footer>
 </body>
 </html>
