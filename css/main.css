@@ -1,23 +1,46 @@
-<style>
-      em {
-        color: red;
-        font-style: normal;
-      }
-      .image1 {
-        width: 300px;
-        height: 800px;
-        object-fit: inherit;
-      }
-      .Image2 {
-        width: 100px;
-        border-radius: 50px;
-        height: 100px;
-      }
+body {
+  margin: 60px auto;
+  width: 70%;
+}
+h1 {
+  font-size: 3em;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  font-size: 1.5em;
+  line-height: 1.4em;
+  color: #333;
+}
+footer {
+  border-top: 1px solid #d5d5d5;
+  font-size: 8em;
+}
 
-      .HTML-class {
-        color: khaki;
-      }
-      .username {
-        font-weight: bold;
-      }
-    </style>
+nav ul,
+footer ul {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0px;
+  list-style: none;
+  font-weight: bold;
+}
+nav ul li,
+footer ul li {
+  display: inline;
+  margin-right: 20px;
+}
+a {
+  text-decoration: none;
+  color: #999;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+ul.posts {
+  margin: 20px auto 40px;
+  font-size: 1.5em;
+}
+
+ul.posts li {
+  list-style: none;
+}
