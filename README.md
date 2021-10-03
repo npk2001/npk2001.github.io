@@ -4,7 +4,7 @@ This lab exercise consists of 10% of my final grade.
 ## Lab1
 **PART 1**
 ## _Github Pages_
-- Create a *GITGUB* **Repository** consisting of a **Readme.md** file ("MD" stands for a markdown file)
+- Create a *GITGUB* **Repository** consisting of a **`Readme.md`** file ("MD" stands for a markdown file)
 - Name the **Repository** with your *GITHUB* "username" followed by "github.io".
 - Create an index.html page and inpur the **HTML** markup in the *GITHUB* text editor. 
   - Make sure that you always commit a file if there are any changes been made. 
@@ -37,4 +37,4 @@ This lab exercise consists of 10% of my final grade.
 - Finally create an about directory with an index.html file and include the default layout tag, this will create an "About" page. 
   - [Link to my About Page.](https://npk2001.github.io/about/)
 
-### Thats the end to our Lab 1 assignment ###
+### That is the end to our Lab 1 assignment ###
