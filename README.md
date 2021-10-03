@@ -10,7 +10,7 @@ This lab exercise consists of 10% of my final grade.
   - Make sure that you always commit a file if there are any changes been made. 
   - Always add a description to the changes been made at the bottom.
 - *Congrats*, we have built our first *GITHUB PAGES SITE*.
-- [Link to my page.](https://npk2001.github.io/)
+  - [Link to my page.](https://npk2001.github.io/)
 
 **PART 2**
 ## _Jekyll & Github Pages_
@@ -31,10 +31,10 @@ This lab exercise consists of 10% of my final grade.
 - Note that these files use markdown as a markup language which is very similar to plain text. Markdown syntax used in these files gets converted to HTML by Jekyll.
   - [Markdown cheatsheet.](https://packetlife.net/media/library/16/Markdown.pdf)
 - Create a blog directry with anindex.html file. We will use a loop to create an unordered list of our blog posts. 
-- [Link to my blog page.](https://npk2001.github.io/blog/)
+  - [Link to my blog page.](https://npk2001.github.io/blog/)
 - As jekyll does not include the blog directory in the "URL" we can control the primalink by adding it to the `_config.yml` file. In this project we add a primalink format of `permalink: /blog/:year/:month/:day/:title`.
-- [Live Blog Post.](https://npk2001.github.io/blog/2021/09/30/site-launched)
+  - [Live Blog Post.](https://npk2001.github.io/blog/2021/09/30/site-launched)
 - Finally create an about directory with an index.html file and include the default layout tag, this will create an "About" page. 
-- [Link to my About Page.](https://npk2001.github.io/about/)
+  - [Link to my About Page.](https://npk2001.github.io/about/)
 
 ### Thats the end to our Lab 1 assignment ###
