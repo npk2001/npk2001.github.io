@@ -20,7 +20,7 @@ This lab exercise consists of 10% of my final grade.
   - First one is a default default.html file where we will store out default **HTML** layout.
   - Post.html file to store the detauls blog post layout - `refer to PART 3 for further details`.
 - Furthermore, we moved all the markup from index.html to defaul.html to create a main default template. 
-- Note that the "page title" & "content" in the default file is what jekyll calls "*liquid tags"".
+- Note that the "page title" & "content" in the default file is what jekyll calls "liquid tags"".
 - Than we updated our index.heml to use the default layout "`layout: default`".
 
 **PART 3**
