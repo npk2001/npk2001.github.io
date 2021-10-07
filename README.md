@@ -36,6 +36,8 @@ This lab exercise consists of 10% of my final grade.
   - [Live Blog Post.](https://npk2001.github.io/blog/2021/09/30/site-launched)
 - Finally create an about directory with an index.html file and include the default layout tag, this will create an "About" page. 
   - [Link to my About Page.](https://npk2001.github.io/about/)
+
+
 ![](![depositphotos_5537685-stock-photo-men-greeting-sun](https://user-images.githubusercontent.com/91059332/136300070-b1cb2013-665e-451c-91f8-0c73ed98bcba.jpeg)
 
 
