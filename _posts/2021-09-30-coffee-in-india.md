@@ -6,7 +6,7 @@ date: 2021-09-30
 
 #Indian Coffee
 
-![](
+![440px-Chennai_filter_coffee_shop](https://user-images.githubusercontent.com/91059332/136302307-9983b048-ce42-4cda-9106-7c64eedc2468.jpg)
 - Indian filter coffee is a coffee drink made by mixing frothed and boiled milk with the infusion obtained by percolation brewing of finely ground coffee powder in a traditional Indian filter.
 - The drink is also referred to as Madras filter coffee, Kumbakonam degree coffee, Mylapore filter coffee, Mysore filter coffee, Palakkad Iyer coffee or South Indian Filter Coffee (Kaapi)o Mecca in the 16th century Baba Budan, a revered Sufi saint from Karnataka state, discovered the wonders of coffee.
 - Popular Indian lore says that on a pilgrimage to Mecca in the 16th century Baba Budan, a revered Sufi saint from Karnataka state, discovered the wonders of coffee.
