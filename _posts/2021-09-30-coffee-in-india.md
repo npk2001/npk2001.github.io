@@ -4,7 +4,7 @@ title: "Coffee in India"
 date: 2021-09-30
 ---
 
-#Indian Coffee
+# _Indian Coffee_
 
 ![440px-Chennai_filter_coffee_shop](https://user-images.githubusercontent.com/91059332/136302307-9983b048-ce42-4cda-9106-7c64eedc2468.jpg)
 - Indian filter coffee is a coffee drink made by mixing frothed and boiled milk with the infusion obtained by percolation brewing of finely ground coffee powder in a traditional Indian filter.
