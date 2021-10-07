@@ -37,4 +37,5 @@ This lab exercise consists of 10% of my final grade.
 - Finally create an about directory with an index.html file and include the default layout tag, this will create an "About" page. 
   - [Link to my About Page.](https://npk2001.github.io/about/)
 
+
 ### That is the end to our Lab 1 assignment ###
