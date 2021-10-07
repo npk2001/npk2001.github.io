@@ -38,7 +38,7 @@ This lab exercise consists of 10% of my final grade.
   - [Link to my About Page.](https://npk2001.github.io/about/)
 
 
-![](![depositphotos_5537685-stock-photo-men-greeting-sun](https://user-images.githubusercontent.com/91059332/136300070-b1cb2013-665e-451c-91f8-0c73ed98bcba.jpeg)
+![depositphotos_5537685-stock-photo-men-greeting-sun](https://user-images.githubusercontent.com/91059332/136300070-b1cb2013-665e-451c-91f8-0c73ed98bcba.jpeg)
 
 
 ### That is the end to our Lab 1 assignment ###
